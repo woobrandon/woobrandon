@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **Brandon Woo** (Woo Kean Jin)  
+# 👋 Hi, I’m **Brandon Woo** (Woo Kean Jin Brandon)  
 I'm a **Data Science and Analytics** student at the **National University of Singapore**, graduating in **June 2025**. Passionate about all things **data engineering**, **cloud technologies**, and **AI-driven solutions**.
 
 ## 🚀 What I Do
