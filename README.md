@@ -11,12 +11,12 @@ I'm a **Data Science and Analytics** student at the **National University of Sin
 - **E-commerce AI Platform**: Developing a platform that uses **Large Language Models** to optimize product descriptions and boost SEO performance.
 
 ## 🛠 Tech Stack
-- **Languages**: Python, SQL, Java, TypeScript
-- **Frameworks**: React, Material-UI, Flask
-- **Big Data**: Apache Spark, Kafka, Hadoop
+- **Languages**: Python, SQL, Java, TypeScript, ReactJS
+- **Frameworks**: React, Flask
+- **Big Data**: Apache Spark, Hadoop
 - **Cloud**: AWS (S3, EC2, RDS), GCP
 - **Databases**: PostgreSQL, MySQL
-- **Tools**: Docker, Git, Jenkins, Airflow
+- **Tools**: Docker, Git
 
 ## 🌱 I’m Learning
 - Real-time data processing with **Apache Flink**
@@ -24,6 +24,6 @@ I'm a **Data Science and Analytics** student at the **National University of Sin
 
 ## 📫 Let's Connect
 - **LinkedIn**: [Brandon Woo on LinkedIn](https://www.linkedin.com/)
-- **Email**: woobrandon@example.com
+- **Email**: brandonwookeanjin@gmail.com
 
 Feel free to check out my repositories and collaborate!
